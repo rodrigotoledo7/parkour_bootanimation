@@ -1,7 +1,7 @@
 # parkour_bootanimation
 Atividade desenvolvida para o curso Palomakoba
 
-# 8. Personalização do Produto - Overlay,Boot Animation
+# 8. Personalização do Produto - Overlay, Boot Animation
 ## 8.5. Desafio I - Animação de Boot
 
 O formato do bootanimation.zip é explicado neste documento do AOSP. O documento está em inglês, mas lembre-se que você pode sempre clicar com o botão direito do mouse na página e pedir para traduzir para o português. Resumindo muito, dentro do zip tem um arquivo chamado desc.txt no seguinte formato:
